@@ -243,4 +243,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 These components were developed by [Gomez jacob](https://github.com/JacobGomez325) in collaboration with [Claude Fassinou](https://github.com/Claudye) for [Quick-v](https://github.com/quick-v).
 
-Demo : [Quick-v Demo](https://meschack.github.io/quickv-test)
+Demo : [Quick-v Demo](https://vue-quickv.vercel.app/)
