@@ -84,7 +84,7 @@
           fieldPlaceholder="Password" 
           label="password"
           qvRules='required|password'
-          qvMessages='password is required |invalide password'
+          qvMessages='password is required |invalide password ,password contain  !@#$%^&*(),.?":{}|<>'
           qvInvalidClass='border border-red-500'
           qvValidClass='border border-green-500'
           v-model="formData.password"
